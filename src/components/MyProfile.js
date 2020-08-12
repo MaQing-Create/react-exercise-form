@@ -24,7 +24,7 @@ class MyProfile extends Component {
 
     onSubmit = (event)=>{
         console.log(this.state)
-        event.preventDefault()
+        alert(`Name is ${this.state.name}，Gender is ${this.state.gender}, and description is "${this.state.description}"`)
     }
 
     render() {
