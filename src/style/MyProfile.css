@@ -1,0 +1,32 @@
+#name {
+    width: 300px;
+    height: 30px;
+    margin:5px;
+}
+
+#gender {
+    width: 308px;
+    height: 30px;
+    margin:5px;
+}
+
+#description {
+    width: 302px;
+    height: 100px;
+    margin:5px;
+}
+
+.myProfile {
+    width: 50%;
+    margin:0 auto;
+}
+
+h1 {
+    width: 50%;
+    margin: 1% auto;
+}
+
+#submit {
+    width: 25%;
+    margin: 0 auto;
+}
